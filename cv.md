@@ -43,11 +43,11 @@ ___________
 
 *University:* State Institute of Management and Social Technologies
 
-    - speciality: financial management
+   - speciality: financial management
 
 *Courses:* 
 
-    - [FreelancerLifeStyle/HTML/СSS](https://www.youtube.com/c/FreelancerLifeStyle)
+   - [FreelancerLifeStyle/HTML/СSS](https://www.youtube.com/c/FreelancerLifeStyle)
 _______
 
 ### English: A2 (Pre-Intermediate)
