@@ -21,17 +21,19 @@ ______________
 
 #### *Hard skills:*
 
-   - HTML
-	- CSS
-	- Git, GitHub
-	- Zeplin
-	- Visual Studio Code
-	- JavaScript in process...
+- HTML
+- CSS
+- Prepros
+- SCSS
+- Git, GitHub
+- Zeplin
+- Visual Studio Code
+- JavaScript in process...
 
 #### *Soft skills:*
 
-   + Communication
-   + Responsibility
-   + Self-Motivation
-   + Teamwork
-   + Diligence
++ Communication
++ Responsibility
++ Self-Motivation
++ Teamwork
++ Diligence
