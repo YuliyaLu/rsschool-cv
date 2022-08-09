@@ -41,11 +41,12 @@ ______________
 ___________
 ### Education: 
 
-*University:* State Institute of Management and Social Technologies
+#### University:
 
-   - speciality: financial management
+   - State Institute of Management and Social Technologies
+       - speciality: financial management
 
-*Courses:* 
+#### Courses: 
 
    - [FreelancerLifeStyle/HTML/СSS](https://www.youtube.com/c/FreelancerLifeStyle)
 _______
