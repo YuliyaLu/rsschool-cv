@@ -1,7 +1,7 @@
 ## rsschool-cv
 # Yuliya Niamkovich
 ### Junior Frontend Developer
-----------
+----------------------------------------------------
 ### Contact information:
 
 **Location:** Minsk, Belarus
@@ -13,10 +13,12 @@
 **Telegram:** @yuliya_niamkovich
 
 **GitHub:** [YuliyaLu](https://github.com/YuliyaLu)
-----------
+
+-----------------------------------------------------------------
 ### Profile:
 This information will appear here later.
-----------
+
+----------------------------------------------------------------
 ### Skills:
 
 #### *Hard skills:*
@@ -38,7 +40,7 @@ This information will appear here later.
 + Teamwork
 + Diligence
 
-----------
+--------------------------------------------------------------
 ### Education: 
 
 #### University:
