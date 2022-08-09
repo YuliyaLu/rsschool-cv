@@ -12,7 +12,7 @@
 
 **Telegram:** @yuliya_niamkovich
 
-**GitHub:**[https://github.com/YuliyaLu](YuliyaLu)
+**GitHub:** [YuliyaLu](https://github.com/YuliyaLu)
 _______________
 ### Profile:
 This information will appear here later.
@@ -21,14 +21,13 @@ ______________
 
 #### *Hard skills:*
 
-   + HTML
-	+ CSS
-	+ Git, GitHub
-	+ Zeplin
-	+ Visual Studio Code
-	+ JavaScript in process...
+   - HTML
+	- CSS
+	- Git, GitHub
+	- Zeplin
+	- Visual Studio Code
+	- JavaScript in process...
 
-==========
 #### *Soft skills:*
 
    + Communication
