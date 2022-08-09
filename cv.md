@@ -13,10 +13,10 @@
 **Telegram:** @yuliya_niamkovich
 
 **GitHub:** [YuliyaLu](https://github.com/YuliyaLu)
-_______________
+----------
 ### Profile:
 This information will appear here later.
-______________
+----------
 ### Skills:
 
 #### *Hard skills:*
@@ -38,7 +38,7 @@ ______________
 + Teamwork
 + Diligence
 
-___________
+----------
 ### Education: 
 
 #### University:
@@ -49,6 +49,6 @@ ___________
 #### Courses: 
 
    - [FreelancerLifeStyle/HTML/СSS](https://www.youtube.com/c/FreelancerLifeStyle)
-_______
+
 
 ### English: A2 (Pre-Intermediate)
