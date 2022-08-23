@@ -74,21 +74,41 @@
  /*--------------------*/
 
  body {
-	width: 900px;
-	margin: 0px auto;
-	padding-top: 20px;
  }
+
+ .container{
+	width: 900px;
+	height: 5000px;
+	margin: 0px auto;
+	padding-top: 60px;
+   background: rgba(124, 167, 132, 0.733) 20px 50% no-repeat;
+	border: 1px solid;
+ }
+
  header {
-	height: 200px;
+	height: 300px;
 	font-size: 30px;
 	text-transform: uppercase;
+	text-align: left;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 0px 100px;
  }
  
  h1 {	
-	
+	order:2;
+	line-height: 35px;
  }
-
+p {
+	font-size: 20px;
+	}
  .photo {
-	background: url("/img/photo.jpg");
-	
+	width: 200px;
+	height: 270px;
+	background: url('img/photo.jpg');
+	background-position: 0 0;
+   background-repeat: no-repeat;
+   background-size: 200px 270px;
+	order: 1;
 }
